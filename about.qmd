@@ -1,0 +1,8 @@
+---
+title: "About"
+image: "images/slam_dunk.jpeg"
+about:
+    template: jolla
+---
+
+I am a linguist-to-be. I work primarily in experimental syntax and statistical modeling of language.

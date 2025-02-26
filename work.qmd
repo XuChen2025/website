@@ -1,0 +1,11 @@
+---
+title: "Work"
+---
+
+# Projects completed:
+
+- Island effects in Chinese (2024)
+
+# Ongoing projects:
+
+- Probing the syntactic knowledge of Large Language Models (2025-)
